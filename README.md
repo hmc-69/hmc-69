@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Chandran</h1>
-<h3 align="center">A self-motivated Software Developer with a B.Sc in Computers and extensive knowledge in Python, Java, Flutter, and Web Development. Adept in innovative problem-solving and adaptable to new technologies. Seeking a dynamic role that fosters professional growth and allows me to make significant contributions to the field.</h3>
+<h3 align="center">A self-motivated Software Developer with a B.Sc in Computers and extensive knowledge in Agular, Node.js, Python, Java, Flutter, and Web Development. Adept in innovative problem-solving and adaptable to new technologies. Seeking a dynamic role that fosters professional growth and allows me to make significant contributions to the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmc-69&label=Profile%20views&color=0e75b6&style=flat" alt="hmc-69" /> </p>
 
