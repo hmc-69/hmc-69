@@ -1,29 +1,56 @@
-<h1 align="center">Hi 👋, I'm Hemanth Chandran</h1>
-<h3 align="center">A self-motivated Software Developer with a B.Sc in Computers and extensive knowledge in Agular, Node.js, Python, Java, Flutter, and Web Development. Adept in innovative problem-solving and adaptable to new technologies. Seeking a dynamic role that fosters professional growth and allows me to make significant contributions to the field.</h3>
+# 👋 Hi, I'm Hemanth Chandran  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmc-69&label=Profile%20views&color=0e75b6&style=flat" alt="hmc-69" /> </p>
+💻 **Software Engineer | Frontend Developer (Angular) | UI/UX Enthusiast**  
+Passionate about building scalable, user-friendly web applications and crafting seamless digital experiences.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmc-69" alt="hmc-69" /></a> </p>
+---
 
-- 🌱 I’m currently learning **React,**
+## 🔧 Tech Stack  
+- **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js, PHP  
+- **Database:** MySQL, Firebase  
+- **Tools:** Git, Figma, Postman, VS Code, Adobe Illustrator  
+- **Practices:** Agile (Scrum), RESTful APIs, Responsive Design  
 
-- 💬 Ask me about **Flutter, Angular**
+---
 
-- 📫 How to reach me **hemanthchandran541@gmail.com**
+## 🚀 Projects  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sG6i4Pp1i1DxQr6Tc96GlBNm80NZAst9/view?usp=drive_link](https://drive.google.com/file/d/1sG6i4Pp1i1DxQr6Tc96GlBNm80NZAst9/view?usp=drive_link)
+### 🔹 [Soulswed – Global Vendor Platform](#)  
+A wedding vendor booking platform used across 10+ countries.  
+- Built scalable frontend with Angular.  
+- Integrated Google & Facebook login for seamless onboarding.  
+- Improved mobile engagement by **30%** through responsive design & performance tweaks.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemanthchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanthchandran" height="30" width="40" /></a>
-<a href="https://instagram.com/_hmc._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hmc._" height="30" width="40" /></a>
-</p>
+### 🔹 [Airline Ticket Bidding System](#)  
+A real-time bidding and negotiation platform for airline tickets.  
+- Designed and implemented frontend (user portal + admin dashboard).  
+- Enabled dynamic bidding flows and admin controls.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔹 [TECH HUB – E-commerce Website](#)  
+College project built with HTML, CSS, JavaScript, PHP & MySQL.  
+- Product catalog, search/filter, shopping cart, and admin panel.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmc-69&show_icons=true&locale=en&layout=compact" alt="hmc-69" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmc-69&show_icons=true&locale=en" alt="hmc-69" /></p>
+## 🎓 Education  
+- 🎓 **Master of Computer Application** – College of Engineering, Chengannur *(2025 – Expected 2027)*  
+- 🎓 **B.Sc. Computer Science** – IHRD College of Applied Science, Mallappally *(2021 – 2024)*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmc-69&" alt="hmc-69" /></p>
+---
+
+## 📜 Certifications  
+- [✔️ Angular (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/8f86f2d45625)  
+- [✔️ Deloitte Australia Tech Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_HWvf3NFkJsBNCEzgD_1752306418129_completion_certificate.pdf)  
+- [✔️ Figma UI/UX Design – Udemy](https://www.udemy.com/certificate/UC-f685f6b5-44bb-4b09-8086-b1765a29a592/)  
+
+---
+
+## 🌐 Connect With Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hemanthchandran/)  
+- 🌍 [Portfolio](https://hmc-portfolio.vercel.app/)  
+- 📧 Email: **hemanthchandran541@gmail.com**  
+
+---
+
+⭐️ From [Hemanth Chandran](https://github.com/your-username)  
