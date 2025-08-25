@@ -16,7 +16,7 @@ Passionate about building scalable, user-friendly web applications and crafting 
 
 ## 🚀 Projects  
 
-### 🔹 [Soulswed – Global Vendor Platform](#)  
+### 🔹 [Soulswed – Global Vendor Platform](https://www.soulswed.com)  
 A wedding vendor booking platform used across 10+ countries.  
 - Built scalable frontend with Angular.  
 - Integrated Google & Facebook login for seamless onboarding.  
