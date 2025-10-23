@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently a MCA student with 1+ year of experience of working as a Software Developer in an early stage of a strtup<br>
+🔭 I’m currently a MCA student with 1+ year of experience of working as a Software Developer in an early stage of a startup<br>
 
 
 ## 🌐 Socials:
