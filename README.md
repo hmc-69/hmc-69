@@ -28,6 +28,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-
+<center>
 <img align="left" height="160" src="https://media.tenor.com/MKk_-FFOkcUAAAAm/kimetsu-no-yaiba-lightning.webp"  />
-
+</center>
